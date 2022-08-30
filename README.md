@@ -1,16 +1,49 @@
-### Hi there 👋
+<div align='center'>
+<h1> Hello There! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+</p>
+</div>
 
-<!--
-**adityaHardi17/adityahardi17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div size='20px' align='center'> Hi! My name is Aditya. Thank You for taking the time to view my GitHub Profile :smile: 
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> About Me </h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🔭 I’m Student on High School SMKN 1 Padaherang
+  
+- 🌱 I’m currently learning PHP, Framework Laravel
+  
+- ⚡ Fun fact: Me gustan los girasoles.
+
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href="https://github.com/Aditya664?tab=rephttps://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/kathryn.png">
+</p>
+
+<img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+<a href= https://github.com/adityaHardi17?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/adityaHardi17?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'>
+<a href= https://github.com/adityaHardi17?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
+<a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= >
+
+<h2> Connect with me 
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<a href = 'https://www.instagram.com/adityfx49'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+<a href = 'https://www.linkedin.com/in/aditya-hardi-a4753324a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
+<a href = 'https://twitter.com/adityaa17_'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<a href = 'https://www.facebook.com/aditya.ctrl/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+<a href = 'https://www.github.com/adityaHardi17'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+  
+<br>
+<br>
+<br>
+  
+[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityaHardi17&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityaHardi17&show_icons=true&theme=radical) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaHardi17&theme=tokyonight) |
+| --- | --- |
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+<br>
+-----
