@@ -30,8 +30,6 @@
 <br>
 <br>
 <br>
-  
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=adityaHardi17&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 | ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityaHardi17&show_icons=true&theme=radical) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=adityaHardi17&theme=tokyonight) |
 | --- | --- |
