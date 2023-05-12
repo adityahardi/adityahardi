@@ -1,7 +1,7 @@
 # <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
 ![Profile Views](https://komarev.com/ghpvc/?username=adityaHardi17&color=1F6FEB)
 
-I'm Aditya, a Full Stack Web Developer mostly working on backend web.
+I'm Aditya, a Full Stack Web Developer mostly working on backend.
 
 # 🛠️ Tools & Technologies
 Tools and techonologies I've used.
