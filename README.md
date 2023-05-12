@@ -39,7 +39,6 @@ Top languages, Github stats, etc.
  
  <div align="center">
   <img alt="Aditya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=adityaHardi17&count_private=true&show_icons=true&theme=github_dark" />
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/wakatime?username=adityaHardi17&layout=compact&theme=github_dark" />
  </div>
  
 </details>
