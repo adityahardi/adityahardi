@@ -1,7 +1,7 @@
 # <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
 ![Profile Views](https://komarev.com/ghpvc/?username=adityahardi&color=1F6FEB)
 
-I'm Aditya, a beginner Full Stack Web Developer. thats it
+I'm Aditya, a beginner Full Stack Web Developer. Yeah, that's it.
 
 </details>
 
