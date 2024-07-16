@@ -5,7 +5,7 @@ I'm Aditya, a beginner Full Stack Web Developer. Yeah, that's it.
 
 </details>
 
-# 🤙 Socials
+# 📱 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/675232774663438373)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eitchaditty)
 
